@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Test Menu</string>
+	<string name="foodTrucks">Food Trucks</string>
+	<string name="restaurants">Restaurants</string>
+	<string name="other">Other</string>
+	<string name="truck1">Truck 1</string>
+	<string name="truck2">Truck 2</string>
+	<string name="truck3">Truck 3</string>
+	<string name="truck4">Truck 4</string>
+	<string name="truck5">Truck 5</string>
+</resources>
